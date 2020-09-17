@@ -31,3 +31,5 @@ git merge upstream/master
 ```
 
 If you can figure out how to do all those things, you'll have a better grasp on how to use Github and how to work on a group project.
+
+phong cloned ruby trainning
